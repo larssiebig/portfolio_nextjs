@@ -62,7 +62,7 @@ export const experiencesData = [
     title: "Software Developer",
     location: "Mannheim, Germany",
     description:
-      "I started as a trainee in a medium sized company building my knowledge in PHP, Java, JavaScript and mySQL.",
+      "I started as a trainee in a medium sized company building my knowledge in PHP, JavaScript and mySQL.",
     icon: React.createElement(CgWorkAlt),
     date: "2021 - 2023",
   },
@@ -70,23 +70,23 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "eCommerce-App",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
+      "In progress. I am building an eCommerce App with Go, TypeScript, React and MongoDB.",
+    tags: ["React", "Go", "MongoDB", "TypeScript"],
     imageUrl: corpcommentImg,
   },
   {
-    title: "rmtDev",
+    title: "FillerProject1",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
+      "Hypothetical Description // Filler Text",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
     imageUrl: rmtdevImg,
   },
   {
-    title: "Word Analytics",
+    title: "FillerProject2",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+      "Hypothetical Description // Filler Text",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
     imageUrl: wordanalyticsImg,
   },
@@ -98,6 +98,7 @@ export const skillsData = [
   "JavaScript",
   "TypeScript",
   "PHP",
+  "Go",
   "React",
   "Next.js",
   "Node.js",
