@@ -59,12 +59,20 @@ export const experiencesData = [
     date: "2020 - 2021",
   },
   {
-    title: "Software Developer",
+    title: "Junior Software Developer",
     location: "Mannheim, Germany",
     description:
       "I started as a trainee in a medium sized company building my knowledge in PHP, JavaScript and mySQL.",
     icon: React.createElement(CgWorkAlt),
     date: "2021 - 2023",
+  },
+  {
+    title: "Junior Software Developer",
+    location: "Mannheim, Germany",
+    description:
+      "I started as a trainee at another company with focus on C# & TypeScript.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2024",
   },
 ] as const;
 
